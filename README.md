@@ -4,4 +4,4 @@ This is a sample application used for [Azure guidance](https://docs.microsoft.co
 
 This app retrieves an RSS feed and displays the results as a list.
 
-Hello!
+Hello from Eu73-new-branch
